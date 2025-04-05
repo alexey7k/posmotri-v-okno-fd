@@ -189,9 +189,9 @@ input:focus-visible {
 
 .button:hover {
   text-decoration: underline;
-  cursor: pointer;
   text-decoration-thickness: 1px;
   text-underline-offset: 10%;
+  cursor: pointer;
 }
 
 .button:active {
