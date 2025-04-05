@@ -138,9 +138,9 @@ input:focus-visible {
 
 .search-form__checkbox-list .search-form__label:has(:hover)  {
   text-decoration: underline;
-  cursor: pointer;
   text-decoration-thickness: 1px;
   text-underline-offset: 10%;
+  cursor: pointer;
 }
 
 .search-form__pseudo-checkbox {
@@ -212,7 +212,6 @@ input:focus-visible {
   grid-area: details;
   margin-left: 30px;
   max-width: 399px;
-  
 }
 
 .title {
